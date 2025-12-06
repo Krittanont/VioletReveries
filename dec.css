@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center; 
+    background-color: #f8f8f8;
+}
+
+header a {
+    font-family: "Arsenal", sans-serif; color: #5FA08F;  
+    text-decoration: none;
+}
